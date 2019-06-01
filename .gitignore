@@ -25,5 +25,4 @@
 /.nb-gradle/
 
 ### me ###
-*.properties
-!application-example.properties
+D:\projects\My-Blog\src\main\resources\application.properties
